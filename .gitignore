@@ -3,3 +3,4 @@ assets/*
 finished/*
 lower_finished/*
 meta/*
+__pycache__
